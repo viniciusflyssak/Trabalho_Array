@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/09/14 14:18:26.053,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:31:28.031,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\uFrmPrincipal.pas=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:31:28.031,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\uFrmPrincipal.dfm=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/14 14:31:42.199,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\ProjetoArray.dproj=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/14 14:31:53.310,=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\Unit1.pas</Transaction>
+    <Transaction>2020/09/14 14:35:20.413,C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\uPessoa.pas=C:\Users\vinic\Documents\Embarcadero\Studio\Projects\Arraydina\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
